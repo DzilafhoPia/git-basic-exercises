@@ -1,1 +1,1 @@
-Git Basic exercise, learning cool stuff
+Git Basic exercise, learning some pretty cool stuff
