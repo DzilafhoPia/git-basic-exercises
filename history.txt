@@ -1,0 +1,189 @@
+    1  ls
+    2  ssh 7f4a9b5ad4cf@7f4a9b5ad4cf.78a5897b.alx-cod.online
+    3  ls
+    4  clear
+    5  ssh 7f4a9b5ad4cf@7f4a9b5ad4cf.78a5897b.alx-cod.online
+    6  ssh 397789f42dd5@397789f42dd5.83860286.alx-cod.online
+    7  mkdri Dzilafho
+    8  cd
+    9  mkdir dzilafho
+   10  ls
+   11  cd dzilafho
+   12  ls
+   13  ls
+   14  cd BootCamp/
+   15  ls
+   16  cd Markdownfiles
+   17  ls
+   18  clear
+   19  cd ..
+   20  cd ..
+   21  cd ..
+   22  ls
+   23  cd /
+   24  ls
+   25  gh repo clone Umuzi-org/Dzilafho-Mudau-394-bash-for-bootcamp-
+   26  git clone https://github.com/Umuzi-org/Dzilafho-Mudau-394-bash-for-bootcamp-.git
+   27  ls
+   28  cd  Dzilafho-Mudau-394-bash-for-bootcamp-/
+   29  ls
+   30  clear
+   31  touch question_1.md
+   32  ls
+   33  echo question_1.md
+   34  ls
+   35  touch question_1.md
+   36  ls
+   37  nano question_1.md
+   38  ls /
+   39  ls
+   40  cd Dzilafho-Mudau-394-bash-for-bootcamp-/
+   41  ls
+   42  clear
+   43  ls
+   44  vi question_1.md
+   45  git add question_1.md
+   46  git commit -m "question_1 file"
+   47  git push
+   48  vi question_2.md
+   49  git add "question_2.md"
+   50  git commit -m "question_2 file"
+   51  git push
+   52  clear
+   53  vi question_3.md
+   54  vi question_4.md
+   55  git add .
+   56  git commit -m
+   57  git commit -m "question4 update"
+   58  git push
+   59  vi question_4.md
+   60  git add "question_3.md"
+   61  git add "question_4.md"
+   62  git commit -m "updated files"
+   63  git push
+   64  clear
+   65  vi question_5.md
+   66  vi question_6.md
+   67  vi question_7.md
+   68  vi question_8.md
+   69  vi question_9.md
+   70  vi question_10.md
+   71  vi question_11.md
+   72  vi question_12.md
+   73  vi question_13.md
+   74  git add .
+   75  git commit -m "Updated files"
+   76  git push
+   77  ls
+   78  cd Dzilafho-Mudau-394-bash-for-bootcamp-/
+   79  ls
+   80  vi question_10.md
+   81  git add question_10
+   82  git add question_10.md
+   83  git commit -m "question_10.md"
+   84  git push
+   85  vi question_1.md
+   86  vi question_2.md
+   87  vi question_3.md
+   88  git add .
+   89  git commit -m "Updated"
+   90  git push
+   91  ls
+   92  cd Dzilafho-Mudau-394-bash-for-bootcamp-/
+   93  ls
+   94  cd .
+   95  ls
+   96  cd ..
+   97  cd BootCamp/
+   98  ls
+   99  cd Markdownfiles
+  100  ls
+  101  cd projectRepo
+  102  ls
+  103  clear
+  104  vi question_3
+  105  ls
+  106  vi question_3.md
+  107  git add question_3.md
+  108  vi question_3.md
+  109  mkdir git-basic-exercises
+  110  cd git-basic-exercises
+  111  ls -a
+  112  git init
+  113  ls -a
+  114  git status
+  115  touch README.md
+  116  ls -a
+  117  git status
+  118  git log
+  119  git add
+  120  git add README.md
+  121  git status
+  122  git restore --staged README.md
+  123  git status
+  124  git reset --staged README.md
+  125  git status
+  126  git rm --cached <README.md>
+  127  git rm --cached <README.md>...
+  128  git status
+  129  ls
+  130  ls
+  131  rm -r git-basic-exercises/
+  132  ls
+  133  clear
+  134  mkdir git-basic-exercises/
+  135  cd git-basic-exercises/
+  136  ls
+  137  ls -a
+  138  git int
+  139  git init
+  140  ls -a
+  141  git status
+  142  touch README.md
+  143  ls -a
+  144  git status
+  145  git log
+  146  git add README.md
+  147  git status
+  148  git rm --cached README.md
+  149  git status
+  150  git add README.md
+  151  git commit -m "initial commit"
+  152  git log
+  153  q
+  154  nano README.md
+  155  cat README.md
+  156  git status
+  157  git add "README.md"
+  158  git commit -m "second commit"
+  159  nano README.md
+  160  cat README.md
+  161  git status
+  162  git add README.md
+  163  git commit -m "third commit"
+  164  git log
+  165  git checkout 40c814c39edd13fe83193cdb4a2d48471f963965
+  166  cat README.md
+  167  git checkout main
+  168  cat README.md
+  169  git checkout master
+  170  cat README.md
+  171  git branch
+  172  git branch milkshake-flavours
+  173  git branch
+  174  git branch
+  175  git checkout milkshake-flavours
+  176  nano milkshakes.md
+  177  git status
+  178  git add milkshakes.md
+  179  git commit -m "added initial flavours"
+  180  git log
+  181  git checkout master
+  182  git log
+  183  git checkout master
+  184  git branch history
+  185  git checkout master
+  186  git checkout history
+  187  git log
+  188  git branch
+  189  history > history.txt
